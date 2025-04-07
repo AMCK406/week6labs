@@ -32,6 +32,6 @@ After you get your program running, you will need to add two more students, one 
 
 Run your program and save your notebook with the output of your program showing the following:
 
-1.  Update your system with your two new students and use `Student Information Query` to show all students.
+1.  Update your system with yudents our two new stand use `Student Information Query` to show all students.
 1.  Use `Query GPA Metrics` to show GPA information *before* you add the 2 new students and *after* you add them.
 1.  Use`Academic Violations` to show you have successfully added violations to 2 students.
